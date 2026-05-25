@@ -1,5 +1,5 @@
 # Analise-de-Dados
-Projeto de análise de dados utilizando Python, SQL e PowerBI
+Projeto de análise de dados feito utilizando Python, SQL e PowerBI
 
 --Sumário dos Arquivos:
 
