@@ -3,7 +3,7 @@ Projeto de análise de dados utilizando Python, SQL e PowerBI
 
 --Sumário dos Arquivos:
 
-  - `Fase 1 Python` - Aqui estão localizados os bancos de dados que foram utilizados no projeto, assim como os arquivos Python utilizados para o processo de ETL.
+  - `Fase 1 Python` - Aqui estão localizados os bancos de dados que foram utilizados no projeto, assim como os arquivos Python utilizados para o processo de tratamento de dados.
     - `1.Banco de dados base` - Pasta onde o arquivo base original está armazenado.
     - `2.Códigos python` - Pasta onde os arquivos Python estão armazenados.
       - `1.corretor_bd.py` - Algoritmo feito para identificar e corrigir possíveis erros de digitação no BD.
